@@ -1,0 +1,6 @@
+{
+  "name": "Royal Specs",
+  "description": "Mobile-first luxury optical store with custom lens configurator, INR pricing, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
